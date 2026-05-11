@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shopno-chobi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Shopno Chobi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shopno-chobi/) |
+| **Get License** | [Secure Licensing Rights for Shopno Chobi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shopno-chobi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অন্ধকারে তুমি আমার জোনাকি আলোর নদী
+> তোমার মাঝেই ডুবে আছি আমি নিরবধি.. নিরবধি..
+> পাগল করা এই নেশাতে মাতাল আমার মন
+> তোমায় ছাড়া বাঁচে না যে আমার এ জীবন.. আমার জীবন..
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

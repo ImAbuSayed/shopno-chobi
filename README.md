@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shopno-chobi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Shopno Chobi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shopno-chobi/) |
+| **Get License** | [Request Licensing for Shopno Chobi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shopno-chobi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5e877db27c827902d7a7677d5e362cd76b50f567f7fabef1b45c17a982124812` |
 | **Timestamp** | May 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

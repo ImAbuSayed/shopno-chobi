@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অন্ধকারে তুমি আমার জোনাকি আলোর নদী
+> তোমার মাঝেই ডুবে আছি আমি নিরবধি.. নিরবধি..
+> পাগল করা এই নেশাতে মাতাল আমার মন
+> তোমায় ছাড়া বাঁচে না যে আমার এ জীবন.. আমার জীবন..
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5e877db27c827902d7a7677d5e362cd76b50f567f7fabef1b45c17a982124812` |
 | **Timestamp** | May 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
